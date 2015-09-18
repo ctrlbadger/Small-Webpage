@@ -1,7 +1,11 @@
 style.css
 h1{
   color;#d9a456;
+}
  body{
 background-color:#ooooff;
 }
+#info{
+  width:200px;
+  background-color:#ffoooo;
 }

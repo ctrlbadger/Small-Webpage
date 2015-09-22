@@ -6,13 +6,14 @@ body {
   background-color:#ffoooo;
 }
 #header {
-  text-align:center;
-  padding:5px;
+   background-color: #CC0000;
+   text-align:center;
+   padding:5px;
 }
 #nav {
-  line-height:30px;
-  height:300px;
-  width:100px;
-  float:left;
-  padding:5px;
+   line-height:30px;
+   height:300px;
+   width:100px;
+   float:left;
+   padding:5px;
 }

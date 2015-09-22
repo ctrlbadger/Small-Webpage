@@ -1,19 +1,22 @@
 body {
    font-family: Arial;
 }
-#info{
-  width:200px;
-  background-color:#ffoooo;
-}
+
 #header {
    background-color: #CC0000;
    text-align:center;
    padding: 10px;
 }
 #nav {
+   background-color: #800000;
    line-height:30px;
    height:300px;
    width:150px;
    float:left;
-   padding105px;
+   padding:10px;
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
 }

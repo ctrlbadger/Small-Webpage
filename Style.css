@@ -8,6 +8,7 @@ body {
 #header {
    background-color: #CC0000;
    text-align:center;
+   padding: 5px;
 }
 #nav {
    line-height:30px;

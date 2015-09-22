@@ -1,7 +1,4 @@
 style.css
-h1{
-  color;#d9a456;
-}
 body {
    font-family: Arial;
 }
@@ -10,6 +7,13 @@ body {
   background-color:#ffoooo;
 }
 #header {
-    text-align:center;
-    padding:5px;
+  text-align:center;
+  padding:5px;
+}
+#nav {
+  line-height:30px;
+  height:300px;
+  width:100px;
+  float:left;
+  padding:5px;
 }

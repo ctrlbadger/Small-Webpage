@@ -1,6 +1,7 @@
 body {
    font-family: Arial;
    margin: 0px;
+   
 }
 #header {
     text-align:center;
@@ -14,17 +15,7 @@ body {
     padding:5px; 
 }
 #section {
+    width:350px;
+    float:left;
     padding:10px; 
-}
-hr { 
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-}
-table {
-     width: 100%;
 }

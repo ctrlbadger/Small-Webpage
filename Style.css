@@ -1,26 +1,21 @@
 body {
    font-family: Arial;
    margin: 0px;
-   background-color: red;
    
 }
-
 #header {
-   background-image: url('Resources/MainBanner.jpg');
-   text-align:center;
-   padding: 10px;
-   color: white;
+    text-align:center;
+    padding:5px;
 }
 #nav {
-   line-height:30px;
-   width:15%;
-   float:left;
-   padding:10px;
-   display: inline;
+    line-height:30px;
+    height:300px;
+    width:150px;
+    float:left;
+    padding:5px; 
 }
 #section {
-    width:85%;
-    float:right;
+    width:350px;
+    float:left;
     padding:10px; 
-    background-color: white;
 }

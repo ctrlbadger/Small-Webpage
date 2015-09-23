@@ -2,9 +2,14 @@ body {
    font-family: Arial;
    margin: 0px;
    background-color: red;
+   
+}
+#banner{
+   background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/0f/Corpus_Christi_College_New_Court,_Cambridge,_UK_-_Diliff.jpg");
 }
 
 #header {
+
    text-align:center;
    padding: 10px;
 }
@@ -12,9 +17,11 @@ body {
    line-height:30px;
    width:12%;
    float:left;
+   padding:10px;
 }
 #section {
     width:87%;
     float:right;
+    padding:10px; 
     background-color: white;
 }

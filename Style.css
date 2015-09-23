@@ -11,12 +11,12 @@ body {
 }
 #nav {
    line-height:30px;
-   width:10%;
+   width:12%;
    float:left;
    padding:10px;
 }
 #section {
-    width:85%;
+    width:87%;
     float:right;
     padding:10px; 
     background-color: white;

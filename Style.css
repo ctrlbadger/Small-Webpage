@@ -24,9 +24,3 @@ body {
     padding:10px; 
     background-color: white;
 }
-
-#nav ul a: hover {
-   text-decoration: underline;
-   color:66ccff;
-   
-}

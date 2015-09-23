@@ -17,7 +17,7 @@ body {
    padding:10px;
 }
 #section {
-    width:350px;
+    width:100%;
     float:left;
     padding:10px; 
     background-color: white;

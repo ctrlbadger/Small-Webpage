@@ -16,6 +16,7 @@ body {
    width:15%;
    float:left;
    padding:10px;
+   display: inline;
 }
 #section {
     width:85%;

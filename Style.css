@@ -25,6 +25,8 @@ body {
     background-color: white;
 }
 
-#nav{
-   font-size: 17px;
+#nav ul a: hover {
+   text-decoration: underline;
+   color:66ccff;
+   
 }

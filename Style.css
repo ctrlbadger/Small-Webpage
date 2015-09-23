@@ -4,12 +4,9 @@ body {
    background-color: red;
    
 }
-#banner{
-   background-image: url('MainBanner.jpg');
-}
 
 #header {
-
+   background-image: url('MainBanner.jpg');
    text-align:center;
    padding: 10px;
 }

@@ -5,7 +5,6 @@ body {
 }
 
 #header {
-
    text-align:center;
    padding: 10px;
 }
@@ -13,11 +12,9 @@ body {
    line-height:30px;
    width:12%;
    float:left;
-   padding:10px;
 }
 #section {
     width:87%;
     float:right;
-    padding:10px; 
     background-color: white;
 }

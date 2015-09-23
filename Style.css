@@ -9,6 +9,7 @@ body {
    background-image: url('Resources/MainBanner.jpg');
    text-align:center;
    padding: 10px;
+   color: white;
 }
 #nav {
    line-height:30px;

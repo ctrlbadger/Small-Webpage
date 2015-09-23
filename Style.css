@@ -6,7 +6,7 @@ body {
 }
 
 #header {
-   background-image: url('MainBanner.jpg');
+   background-image: url('Resources/MainBanner.jpg');
    text-align:center;
    padding: 10px;
 }

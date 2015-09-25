@@ -15,6 +15,7 @@ body {
     height:100vh;
     background-color: grey;
     float:left;
+    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDLkmBzfLVkxjPJ73ljZaVkJt2oTVFth5BvegmvMhL3loEb2JX");
 }
 #Pad {
     padding: 10px;

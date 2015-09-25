@@ -12,6 +12,7 @@ body {
     text-align:center;
     background-color: grey;
     height: 10vh;
+    background-image: url("http://www.coventry.ac.uk/Global/03%20Study%20section%20assets/Course%20Wizard/2013%20Courses/EandC/Network%20Computing%20MSc/network_computing_msc1.jpg");
 }
 #nav {
     line-height:30px;

@@ -1,26 +1,33 @@
-body {
-   font-family: Arial;
-   margin: 0px;
-   height: 100%;
-   
+*
+{
+    margin:0;padding:0;
 }
-#header {
-    text-align:center;
-    background-color: 000000;
-    height: 100px;
-    background-image: url("http://www.coventry.ac.uk/Global/03%20Study%20section%20assets/Course%20Wizard/2013%20Courses/EandC/Network%20Computing%20MSc/network_computing_msc1.jpg");
+html, body
+{
+  font-family: Arial;
+  margin: 0px;
+  height: 100%;
 }
-#nav {
-    line-height:30px;
-    height:100vh;
-    background-color: darkgrey;
-    float:left;
-    background-image: url(""");
+#sidebar, #main{
+  height: 90%;
 }
-#Pad {
-    padding: 10px;
+li {
+  display: block;
 }
-#section {
-    float:left;
-    padding: 10px;
+header {
+  height: 10%;
+}
+#sidebar {
+  float:left;
+  width: 150px;
+  background: aqua;
+  overflow:hidden;
+}
+content {
+  margin-top: -50px;
+  padding-top: 50px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 90%
+  overflow: scroll;
 }

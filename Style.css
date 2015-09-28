@@ -2,32 +2,39 @@
 {
     margin:0;padding:0;
 }
-html, body
-{
+html, body {
   font-family: Arial;
   margin: 0px;
   height: 100%;
-}
-#sidebar, #main{
-  height: 90%;
 }
 li {
   display: block;
 }
 header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 10%;
+  background-color: grey;
 }
+#main {
+  position: fixed;
+   margin-left: 150px;
+   overflow-x: hidden;
+   overflow-y: scroll hidden;
+   max-height: 100%;
+ }
 #sidebar {
+  line-height: 30px;
+  background-color: grey;
   float:left;
   width: 150px;
-  background: aqua;
   overflow:hidden;
+  height: 100%;
 }
-content {
-  margin-top: -50px;
-  padding-top: 50px;
+#content {
+
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  height: 90%
-  overflow: scroll;
+  height: 90%;
 }
